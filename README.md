@@ -1,7 +1,7 @@
 🕌 Reznam Ezan Vakti
 Gizlilik Politikası | Privacy Policy
 
-Son Güncelleme: 16 Aralık 2025
+Son Güncelleme: 23 Ocak 2026
 
 1. Giriş
 Reznam Ezan Vakti uygulaması ("Uygulama"), kullanıcılarının gizliliğine saygı duymaktadır. Bu gizlilik politikası, uygulamamızın hangi verileri topladığını, nasıl kullandığını ve koruduğunu açıklamaktadır.
@@ -66,6 +66,6 @@ Gizlilik politikamız hakkında sorularınız varsa bizimle iletişime geçebili
 
 📧 E-posta: zerona244@gmail.com
 
-© 2025 Reznam Ezan Vakti. Tüm hakları saklıdır.
+© 2026 Reznam Ezan Vakti. Tüm hakları saklıdır.
 
 Bu uygulama Türkiye'de geliştirilmiştir. 🇹🇷
